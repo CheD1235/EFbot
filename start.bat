@@ -1,0 +1,2 @@
+py EFBot.py
+pause
